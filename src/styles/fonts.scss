@@ -1,0 +1,50 @@
+// Fonts
+@font-face {
+  font-family: 'AvenirNext-Bold';
+  src:
+          //url('../assets/fonts/GothamHTF-Bold.woff') format('woff'),
+          //url('../fonts/GothamHTF-Bold.otf') format('otf');
+          url('../assets/fonts/AvenirNext-Bold-01.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-Regular';
+  src:
+          //url('../fonts/GothamHTF-Book.woff') format('woff'),
+          //url('../fonts/GothamHTF-Book.otf') format('otf');
+          url('../assets/fonts/AvenirNext-Regular-08.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-UltraLight';
+  src:
+          //url('../fonts/GothamHTF-Medium.woff') format('woff'),
+          //url('../fonts/GothamHTF-Medium.otf') format('otf');
+          url('../assets/fonts/AvenirNext-UltraLight-11.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-DemiBold';
+  src:
+          //url('../fonts/GothamHTF-Medium.woff') format('woff'),
+          //url('../fonts/GothamHTF-Medium.otf') format('otf');
+          url('../assets/fonts/AvenirNext-DemiBold-03.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext-Medium';
+  src:
+          //url('../fonts/GothamHTF-Medium.woff') format('woff'),
+          //url('../fonts/GothamHTF-Medium.otf') format('otf');
+          url('../assets/fonts/AvenirNext-Medium-06.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,15 @@
+@import '~bootstrap/scss/mixins/_breakpoints.scss';
+
+// boostrap breakpoints
+$grid-breakpoints: (
+        xs: 0,
+        sm: 576px,
+        md: 768px,
+        lg: 992px,
+        xl: 1200px
+) !default;
+
+// colors
+$brand-black: #272727;
+$brand-white: #ffffff;
+
